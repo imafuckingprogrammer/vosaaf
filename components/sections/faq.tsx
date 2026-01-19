@@ -56,7 +56,7 @@ export function FAQ() {
               Frequently Asked Questions
             </h2>
             <p className="text-muted-foreground text-lg">
-              Got questions? We've got answers
+              Got questions? We&apos;ve got answers
             </p>
           </motion.div>
 

@@ -69,7 +69,7 @@ export function Testimonials() {
                   <Quote className="h-8 w-8 text-muted-foreground/30 mb-4" />
 
                   <p className="text-muted-foreground leading-relaxed mb-6">
-                    "{testimonial.text}"
+                    &ldquo;{testimonial.text}&rdquo;
                   </p>
 
                   <div className="flex gap-0.5 mb-4">

@@ -126,12 +126,12 @@ export default function AboutPage() {
                   international education accessible to every deserving student.
                 </p>
                 <p>
-                  Over the years, we've helped hundreds of students navigate the complex world of
+                  Over the years, we&apos;ve helped hundreds of students navigate the complex world of
                   international admissions and visa processes. Our team of experienced counselors
                   brings decades of combined expertise in education consultancy.
                 </p>
                 <p>
-                  Located at Platinum Hub in Manjalpur, Vadodara, we've become the go-to destination
+                  Located at Platinum Hub in Manjalpur, Vadodara, we&apos;ve become the go-to destination
                   for students seeking guidance on studying in Europe, USA, Canada, Australia, and beyond.
                 </p>
               </div>

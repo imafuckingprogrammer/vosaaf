@@ -96,7 +96,7 @@ export default function ContactPage() {
                       </div>
                       <h3 className="text-xl font-semibold text-foreground mb-2">Thank You!</h3>
                       <p className="text-muted-foreground">
-                        We've received your message and will get back to you within 24 hours.
+                        We&apos;ve received your message and will get back to you within 24 hours.
                       </p>
                     </div>
                   ) : (
